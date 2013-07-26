@@ -1,5 +1,5 @@
 ->test.cpp is the file containg all the application code.
-->(zlib decoder encoder.exe) is the executable file that can e run using the windows/unix command line.
+->(zlib decoder encoder.exe) is the executable file that can be run using the windows/unix command line.
 
 ->steps to build project on windows visual c++ express/ visual studios
 	1. create a new win32 console project and select empty project.
@@ -22,7 +22,7 @@
 		Default stdin = keyboard , Default stdout = windows console.
 		If you are using the defalut stdin and stdout, 
 			1. Give input using keyboard on the console.
-			2. To see utput terminate the input stream by pressing  Crtl + C.
+			2. To see output terminate the input stream by pressing  Crtl + C.
 	3. If you want to use a file to change default input stream and output stream-
 		To Deflate (encode) 
 			1. To give input using a file, e.g-
