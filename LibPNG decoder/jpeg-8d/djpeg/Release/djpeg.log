@@ -1,0 +1,11 @@
+﻿  cdjpeg.c
+  djpeg.c
+  rdcolmap.c
+  wrbmp.c
+  wrgif.c
+  wrppm.c
+  wrrle.c
+  wrtarga.c
+  Generating code
+  Finished generating code
+  djpeg.vcxproj -> C:\jpeg-8d\djpeg\Release\djpeg.exe

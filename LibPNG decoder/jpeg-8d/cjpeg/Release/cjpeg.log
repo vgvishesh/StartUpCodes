@@ -1,0 +1,11 @@
+﻿  cdjpeg.c
+  cjpeg.c
+  rdbmp.c
+  rdgif.c
+  rdppm.c
+  rdrle.c
+  rdswitch.c
+  rdtarga.c
+  Generating code
+  Finished generating code
+  cjpeg.vcxproj -> C:\jpeg-8d\cjpeg\Release\cjpeg.exe
