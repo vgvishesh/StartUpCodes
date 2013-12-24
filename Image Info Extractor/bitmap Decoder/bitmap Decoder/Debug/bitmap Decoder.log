@@ -1,0 +1,3 @@
+﻿  bitmapInfo.cpp
+EasyBMP.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  bitmap Decoder.vcxproj -> C:\Users\Vishesh\Documents\Visual Studio 2010\Projects\bitmap Decoder\Debug\bitmap Decoder.exe
